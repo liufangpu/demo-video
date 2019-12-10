@@ -1,4 +1,4 @@
-package com.example.demovideo.huawei.model;
+package com.example.demovideo.lfp.model;
 
 import java.sql.Timestamp;
 

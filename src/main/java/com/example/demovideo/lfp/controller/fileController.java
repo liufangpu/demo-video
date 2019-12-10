@@ -1,4 +1,4 @@
-package com.example.demovideo.huawei.controller;
+package com.example.demovideo.lfp.controller;
 
 import java.io.*;
 import java.net.URLEncoder;
@@ -9,9 +9,8 @@ import java.util.List;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.example.demovideo.huawei.model.FileEntity;
-import com.example.demovideo.huawei.util.FileUploadTool;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.example.demovideo.lfp.model.FileEntity;
+import com.example.demovideo.lfp.util.FileUploadTool;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.ui.ModelMap;

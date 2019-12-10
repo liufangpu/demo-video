@@ -1,4 +1,4 @@
-package com.example.demovideo.huawei.util;
+package com.example.demovideo.lfp.util;
 
 import java.io.File;
 import java.io.IOException;
@@ -10,7 +10,7 @@ import java.util.Random;
 
 import javax.servlet.http.HttpServletRequest;
 
-import com.example.demovideo.huawei.model.FileEntity;
+import com.example.demovideo.lfp.model.FileEntity;
 import org.springframework.web.multipart.MultipartFile;
 
 
